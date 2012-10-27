@@ -7,9 +7,8 @@ Simple and easy donate integration(PayPal, Flattr, Bitcoin) into your Quickly-ap
 
 
 ##Install it
-Just clone this repo into your app-root:
 
-    git clone git@github.com:voidcode/Mallard-DonateHelpMenu.git    
+Just zip/put the 'Help'-folder into your app-root.
 
 ##Then go and edit: /help/C/donate.page
 
