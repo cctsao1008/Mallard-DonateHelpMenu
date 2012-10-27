@@ -1,0 +1,43 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="donate">
+
+<info>
+  <link type="guide" xref="index#contents"/>
+  <credit type="author">
+    <name>[AUTHOR-NAME]</name>
+    <email>[AUTHOR-EMAIL]</email>
+    <years>[AUTHOR-YEARS]</years>
+  </credit>
+  <desc>Foss-developers also need to eat</desc>
+</info>
+<title>Donate</title>
+<p>Creating software takes a long time, and this costs a lot of cola.</p>
+
+<p>Give some money!</p>
+<p>
+	<!-- 773604c9-6a92-48c8-b3e0-2413fe3f2841 -->
+	<media href="https://payment.mtgox.com/[MTGOX-KEY]"
+		type="image"
+		mime="image/png"
+		src="figures/donate/bitcoin-donate.png"/>
+	<media href="https://flattr.com/profile/[FLATTR-NAME]/things"
+		type="image"
+		mime="image/png"
+		src="figures/donate/flattr-donate.png"/>
+	<media href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=[PAYPAl-EMAIL]&amp;lc=US&amp;no_note=0&amp;currency_code=DKK&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+		type="image"
+		mime="image/png"
+		src="figures/donate/paypal-donate.png"/>
+
+</p>
+
+<p>Code it!</p>
+<p>The best way to donate to any <link href="http://en.wikipedia.org/wiki/Free_and_Open_Source_Software">foss project</link> is by code, artworks, ideers etc.</p>
+
+<p>Get the source code for this app:</p>
+<code>[GET-BRANCH-CODE]</code>
+
+</page>
+
+
