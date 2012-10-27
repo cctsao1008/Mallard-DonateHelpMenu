@@ -1,5 +1,6 @@
 Mallard-DonateHelpMenu
 ======================
+
 Simple and easy donate integration(PayPal, Flattr, Bitcoin) into your Quickly-app´s help-menu.
 
 ![Under: Help->Content->Donate](http://i46.tinypic.com/359xxs1.png)
@@ -26,7 +27,7 @@ Replace those values in the 'donate.page'-file:
 
 [PAYPAl-EMAIL] == Your PayPal email (Get it [here](https://www.paypal.com))
 
-[GET-SOURCE-CODE] == Like: git clone git@github.com:voidcode/Mallard-DonateHelpMenu.git
+[GET-SOURCE-CODE] == Like: `bzr branch lp:~terkelsorensen/foursizes/trunk`
 
 
 ##Now your done..!!
