@@ -1,7 +1,7 @@
 Mallard-DonateHelpMenu
 ======================
 
-Simple and easy donate integration(PayPal, Flattr, Bitcoin) into your Quickly-app´s help-menu.
+Simple and easy donate integration(PayPal, Flattr, Bitcoin) into your Quickly-app´s help-menu/mallard.
 
 ![Under: Help->Content->Donate](http://i46.tinypic.com/359xxs1.png)
 
@@ -34,3 +34,6 @@ Replace those values in the 'donate.page'-file:
 Try open app and see under:
 
     Help -> Content -> Donate    
+
+---
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Voidcode&url=https://github.com/voidcode/Mallard-DonateHelpMenu&title=Mallard-DonateHelpMenu&language=mallard&tags=github&category=software)
